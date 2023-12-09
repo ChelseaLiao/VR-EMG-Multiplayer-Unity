@@ -1,7 +1,7 @@
 # Introduction
 A 2-player VR game based on EMG signals, demonstrating 3 different kinds of human augmentation: teleportation, super punch and communication without text or speech. This game was developed based on Unity3D and HTC Vive with EMG signals simulated via lab streaming layer(LSL).
 
-# Opeartion
+# Operation
 Player in VR: as first person boxing game, you fight with the zombies in virtual environment. Even you master 3 skills: teleportation, punching and slowing down time, you are too weak to release the skills.
  
 Player outside of VR: you wear EMG sensor and charge the power by making fist, so that your team mate gets your power to release the skills in VR.
