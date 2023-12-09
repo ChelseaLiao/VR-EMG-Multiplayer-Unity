@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/SceneController.cs.meta
+guid: 82f7b61183545a74c869af4656b9854c
+========
+guid: 507abc68d14981248baed9f16f91df22
+>>>>>>>> LightsRespond:Assets/Skripts/LightChanger.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
