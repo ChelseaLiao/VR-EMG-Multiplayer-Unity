@@ -12,8 +12,10 @@ Communication between players:
 
 # Required Software
 Unity 2021.3.6f1
+
 Steam VR
 
 # Required Hardware
 HTC Vive
+
 EMG sensor with multiple eletrodes
